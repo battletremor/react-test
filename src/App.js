@@ -50,7 +50,7 @@ const App = () => {
 
 };
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
 
 
 
@@ -62,4 +62,4 @@ export default App;
 //Demo Jenkins Commit 1
 //Demo Jenkins Commit 2
 //AWS Devops Test 1
->>>>>>> 529b775ab4a24c1ccd1639abace9955e96303c79
+//>>>>>>> 529b775ab4a24c1ccd1639abace9955e96303c79
