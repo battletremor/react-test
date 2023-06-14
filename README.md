@@ -10,4 +10,4 @@
 
 Webhook Test 1: Succesfull
 Email Test 1: Failed 
-Email Test 2: 
+Email Test 2: Failed
