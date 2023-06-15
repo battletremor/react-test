@@ -11,3 +11,4 @@
 Webhook Test 1: Succesfull
 Email Test 1: Failed 
 Email Test 2: Failed
+Email Test 1: Succesfull
