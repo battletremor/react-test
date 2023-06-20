@@ -36,7 +36,7 @@ const App = () => {
 
       <form onSubmit={handleSubmit}>
 
-        <label htmlFor="name">Name</label>
+        <label htmlFor="name">Name1</label>
 
         <input id="name" type="text" value={name} onChange={handleChange} />
 
